@@ -1,4 +1,4 @@
-﻿namespace isds454finalproject
+﻿namespace ISDS454finalproject
 {
     partial class loginFrm
     {
