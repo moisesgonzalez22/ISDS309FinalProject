@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ISDS309FinalProject.Properties {
+namespace ISDS454FinalProject.Properties {
     using System;
     
     
